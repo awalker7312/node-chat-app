@@ -1,0 +1,23 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "A chat app in node using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awalker7312/node-chat-app.git"
+  },
+  "author": "Alan Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awalker7312/node-chat-app/issues"
+  },
+  "homepage": "https://github.com/awalker7312/node-chat-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
