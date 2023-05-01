@@ -18,7 +18,7 @@ cd node-chat-app
 
 ### 3. Install dependencies *(this will install express & socket.io)*:
 ```bash
-npm Install
+npm install
 ```
 
 ### 4. Run the app
